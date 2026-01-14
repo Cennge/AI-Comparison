@@ -1,0 +1,5 @@
+[NICKNAME] = "skebobchik"
+
+
+
+Transform the original photo into a Minecraft-inspired scene while keeping the person completely unchanged and realistic. Recreate the entire environment using Minecraft-style voxel blocks: pixelated trees, stone path, foliage, and a foggy forest atmosphere built from cubic blocks. Add a floating Minecraft username label above the character’s head that reads [NICKNAME], styled like an in-game name tag (clean pixel font, white text with a subtle shadow). Maintain the original camera angle and composition, with soft fog rendered in blocky volumetric layers. Lighting should resemble Minecraft daylight with gentle haze, natural shadows, and consistent scale. The final result should look like a high-quality Minecraft screenshot, cinematic but clearly voxel-based.
